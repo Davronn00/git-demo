@@ -1,7 +1,4 @@
-
-
-hello
-click commit changes id we go to the main page of our and third one
+page of our and third one
 let's return the local machine and see what is happening 
 
 fggdhffffffsgh
@@ -12,3 +9,4 @@ anothero one
 
 added to feature
 added to master
+added for smth
