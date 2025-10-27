@@ -25,3 +25,4 @@ new commit a
 anothero one
 
 added to feature
+added to master
